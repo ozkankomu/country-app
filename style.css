@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background-image: url(./img/4ba80ca8-8a7d-406c-b014-b4f326fedb02.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.headline {
+  font-size: 4rem;
+  margin: 5rem auto;
+  color: white;
+  text-shadow: black 3px 10px 5px !important;
+}
+
+.select {
+  max-width: 40rem;
+  width: 80%;
+  padding: 1rem;
+  border-radius: 50px;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 500;
+  background-color: rgba(61, 4, 4, 0.54);
+  box-shadow: black 3px 3px 10px 3px;
+  margin-bottom: 3rem;
+}
+
+option {
+  background-color: rgb(73, 3, 3);
+}
+
+.disabled {
+  background-color: lightgray;
+}
+
+.card {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.54);
+  border-radius: 10px;
+  box-shadow: black 3px 3px 20px 10px !important;
+}
+
+.list-group-item {
+  color: white;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.card-body button a {
+  text-decoration: none;
+}
+
+.card-body .btn:active {
+  transform: scale(90%) !important;
+}
