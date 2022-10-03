@@ -9,7 +9,7 @@ const renderCountryName = (data) => {
   countryArr.sort();
 
   countryArr.forEach((element) => {
-    countryName.innerHTML += `<option value="${element}">${element}</option>`;
+    countryName.innerHTML += `<option class="option" value="${element}">${element}</option>`;
   });
 };
 
