@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.linkedin.com/in/ozkankomu/" target="_blank"><img src="avatar.png" alt="screenshot"></a>
+<a href="https://www.linkedin.com/in/ozkankomu/" target="_blank"><img src="avatar.png" alt="screenshot" target=_blanked></a>
 </p>
 
 
@@ -37,7 +37,7 @@ country - App
 
 ## Screenshot
 <p align="center">
-<a href="https://ozkankomu.github.io/country-app/"><img src="screenShot.jpg" alt="screenshot"></a>
+<a href="https://ozkankomu.github.io/country-app/"><img src="screenShot.jpg" alt="screenshot" target=_blanked></a>
 </p>
 
 
