@@ -30,7 +30,6 @@ country - App
 |----style.css
 
 ```
-
 ## Screenshot
 
 <p align="center">
