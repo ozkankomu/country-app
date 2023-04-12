@@ -14,7 +14,6 @@
 - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
 ## The challenge
 
 The aim of the project is to publish the information of the countries with the card structure by extracting data from the API.
